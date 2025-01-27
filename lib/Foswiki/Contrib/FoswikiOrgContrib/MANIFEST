@@ -1,0 +1,20 @@
+!noci
+data/System/FoswikiOrgContrib.txt 0644
+lib/Foswiki/Contrib/FoswikiOrgContrib/Config.spec 0644
+lib/Foswiki/Contrib/FoswikiOrgContrib/DEPENDENCIES 0644
+lib/Foswiki/Contrib/FoswikiOrgContrib/MANIFEST 0644
+lib/Foswiki/Contrib/FoswikiOrgContrib.pm 0644
+pub/System/FoswikiOrgContrib/assets/logo.png 0644
+pub/System/FoswikiOrgContrib/assets/logo.svg 0644
+pub/System/FoswikiOrgContrib/build/frontpage.css 0644
+pub/System/FoswikiOrgContrib/build/frontpage.css.gz 0644
+pub/System/FoswikiOrgContrib/build/pkg.js 0644
+pub/System/FoswikiOrgContrib/build/pkg.js.gz 0644
+pub/System/FoswikiOrgContrib/build/styles.css 0644
+pub/System/FoswikiOrgContrib/build/styles.css.gz 0644
+pub/System/FoswikiOrgContrib/Makefile 0644
+pub/System/FoswikiOrgContrib/src/animate.js 0644
+pub/System/FoswikiOrgContrib/src/bubbles.js 0644
+pub/System/FoswikiOrgContrib/src/frontpage.css 0644
+pub/System/FoswikiOrgContrib/src/frontpage.js 0644
+pub/System/FoswikiOrgContrib/src/styles.css 0644
