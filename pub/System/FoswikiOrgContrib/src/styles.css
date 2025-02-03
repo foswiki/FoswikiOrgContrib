@@ -91,6 +91,7 @@
   --cls-pagination-hover-background: #d4dde7;
 
   --comments-background: var(--color-gray-10);
+  --comments-background-pre: var(--color-gray-8);
 
   /* full calendar */
   --fc-event-bg-color: var(--color-secondary, #3788d8);
@@ -206,4 +207,6 @@ a:hover.clsPaginationNext {
 .natBodyStickyTopBar .natWebLogo {
   width:60px;
 }
-
+.natLogin a {
+  color:var(--color-text);
+}

@@ -1,3 +1,12 @@
 data/**/*,v
 pub/System/**/*.gz
 
+/FoswikiOrgContrib.md5
+/FoswikiOrgContrib.sha1
+/FoswikiOrgContrib.tgz
+/FoswikiOrgContrib.txt
+/FoswikiOrgContrib.zip
+/FoswikiOrgContrib_installer
+/FoswikiOrgContrib_installer.pl
+
+

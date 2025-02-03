@@ -1,6 +1,6 @@
 # ---+ Extensions
 # ---++ NatSkin
-# ---+++ Themes
+# ---+++ NatSkin Themes
 # **PERL LABEL="FoswikiOrg"**
 $Foswiki::cfg{NatSkin}{Themes}{FoswikiOrg} = {
   baseUrl => '%PUBURLPATH%/%SYSTEMWEB%/FoswikiOrgContrib/build',
