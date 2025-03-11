@@ -1,5 +1,6 @@
 FOSWIKI_ROOT?=~/foswiki/core
 TARGET=\
+  build \
   build/styles.css \
   build/frontpage.css \
   build/pkg.js
@@ -25,3 +26,6 @@ build/%.js: src/%.js
 
 clean:
 	rm -f build/*
+
+build:
+	@mkdir build

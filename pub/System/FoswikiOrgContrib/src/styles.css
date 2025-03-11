@@ -74,7 +74,7 @@
   --topbar-background:rgb(249 251 253 / 80%);
   --topbar-anchor:#333;
   --color-anchor:var(--color-secondary);
-  --color-hover-foreground:var(--color-anchor);
+  --color-hover-foreground:var(--color-primary);
   --color-border: #bfc3c5;
 
   --menu-active-background: var(--color-primary-alpha-2);
